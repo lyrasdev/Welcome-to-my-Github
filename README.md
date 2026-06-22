@@ -86,7 +86,7 @@ Developing:
 
 <img src="https://github-readme-stats.vercel.app/api?username=lyrasdev&show_icons=true&theme=rose_pine" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrasdev&theme=rose_pine" />
 
 ---
 
