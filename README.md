@@ -1,10 +1,10 @@
-# 🌸 Welcome to Lyra's GitHub
+# 🌸 Welcome to Sylphira's GitHub
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7d5&height=200&section=header&text=Lyra&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 
 ## ✦ About Me
 
-Hi! I'm **Lyra** 🌙
+Hi! I'm **Sylphira** 🌙
 
 I'm a developer focused on creating cute, creative, and functional projects.
 
@@ -70,6 +70,7 @@ Developing:
 - Node.js
 - APIs
 - Databases
+- Rust
 
 ---
 
@@ -90,7 +91,7 @@ Developing:
 
 ---
 
-## 🐇 About Lyra
+## 🐇 About Sylphira
 
 - ☁️ Always experimenting with new ideas
 - 🖥️ Enjoy building things from scratch
@@ -102,7 +103,7 @@ Developing:
 
 Discord: `.lyras`
 
-Website: https://lyralab.cloud
+Website: https://Sylphira.tadc.cloud
 
 ---
 
