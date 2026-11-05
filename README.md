@@ -1,6 +1,6 @@
 # 🌸 Welcome to Sylphira's GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7d5&height=200&section=header&text=Lyra&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7d5&height=200&section=header&text=Sylphira&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 
 ## ✦ About Me
 
