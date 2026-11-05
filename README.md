@@ -101,7 +101,7 @@ Developing:
 
 ## 💌 Contact
 
-Discord: `.lyras`
+Discord: `.sylphiras`
 
 Website: https://Sylphira.tadc.cloud
 
